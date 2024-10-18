@@ -102,32 +102,35 @@
             // 
             // cuatro
             // 
+            this.cuatro.BackColor = System.Drawing.Color.LightBlue;
             this.cuatro.Location = new System.Drawing.Point(255, 207);
             this.cuatro.Name = "cuatro";
             this.cuatro.Size = new System.Drawing.Size(75, 51);
             this.cuatro.TabIndex = 3;
             this.cuatro.Text = "7";
-            this.cuatro.UseVisualStyleBackColor = true;
+            this.cuatro.UseVisualStyleBackColor = false;
             this.cuatro.Click += new System.EventHandler(this.button_click);
             // 
             // button5
             // 
+            this.button5.BackColor = System.Drawing.Color.LightBlue;
             this.button5.Location = new System.Drawing.Point(336, 207);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(75, 51);
             this.button5.TabIndex = 4;
             this.button5.Text = "8";
-            this.button5.UseVisualStyleBackColor = true;
+            this.button5.UseVisualStyleBackColor = false;
             this.button5.Click += new System.EventHandler(this.button_click);
             // 
             // button6
             // 
+            this.button6.BackColor = System.Drawing.Color.LightBlue;
             this.button6.Location = new System.Drawing.Point(417, 207);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(75, 51);
             this.button6.TabIndex = 5;
             this.button6.Text = "9";
-            this.button6.UseVisualStyleBackColor = true;
+            this.button6.UseVisualStyleBackColor = false;
             this.button6.Click += new System.EventHandler(this.button_click);
             // 
             // button7
@@ -187,32 +190,35 @@
             // 
             // button12
             // 
+            this.button12.BackColor = System.Drawing.Color.LightBlue;
             this.button12.Location = new System.Drawing.Point(255, 264);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(75, 51);
             this.button12.TabIndex = 11;
             this.button12.Text = "4";
-            this.button12.UseVisualStyleBackColor = true;
+            this.button12.UseVisualStyleBackColor = false;
             this.button12.Click += new System.EventHandler(this.button_click);
             // 
             // button13
             // 
+            this.button13.BackColor = System.Drawing.Color.LightBlue;
             this.button13.Location = new System.Drawing.Point(336, 264);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(75, 51);
             this.button13.TabIndex = 12;
             this.button13.Text = "5";
-            this.button13.UseVisualStyleBackColor = true;
+            this.button13.UseVisualStyleBackColor = false;
             this.button13.Click += new System.EventHandler(this.button_click);
             // 
             // button14
             // 
+            this.button14.BackColor = System.Drawing.Color.LightBlue;
             this.button14.Location = new System.Drawing.Point(417, 264);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(75, 51);
             this.button14.TabIndex = 13;
             this.button14.Text = "6";
-            this.button14.UseVisualStyleBackColor = true;
+            this.button14.UseVisualStyleBackColor = false;
             this.button14.Click += new System.EventHandler(this.button_click);
             // 
             // button15
@@ -272,32 +278,35 @@
             // 
             // button20
             // 
+            this.button20.BackColor = System.Drawing.Color.LightBlue;
             this.button20.Location = new System.Drawing.Point(255, 321);
             this.button20.Name = "button20";
             this.button20.Size = new System.Drawing.Size(75, 51);
             this.button20.TabIndex = 19;
             this.button20.Text = "1";
-            this.button20.UseVisualStyleBackColor = true;
+            this.button20.UseVisualStyleBackColor = false;
             this.button20.Click += new System.EventHandler(this.button_click);
             // 
             // button21
             // 
+            this.button21.BackColor = System.Drawing.Color.LightBlue;
             this.button21.Location = new System.Drawing.Point(336, 321);
             this.button21.Name = "button21";
             this.button21.Size = new System.Drawing.Size(75, 51);
             this.button21.TabIndex = 20;
             this.button21.Text = "2";
-            this.button21.UseVisualStyleBackColor = true;
+            this.button21.UseVisualStyleBackColor = false;
             this.button21.Click += new System.EventHandler(this.button_click);
             // 
             // button22
             // 
+            this.button22.BackColor = System.Drawing.Color.LightBlue;
             this.button22.Location = new System.Drawing.Point(417, 321);
             this.button22.Name = "button22";
             this.button22.Size = new System.Drawing.Size(75, 51);
             this.button22.TabIndex = 21;
             this.button22.Text = "3";
-            this.button22.UseVisualStyleBackColor = true;
+            this.button22.UseVisualStyleBackColor = false;
             this.button22.Click += new System.EventHandler(this.button_click);
             // 
             // button23
@@ -346,12 +355,13 @@
             // 
             // button27
             // 
+            this.button27.BackColor = System.Drawing.Color.LightBlue;
             this.button27.Location = new System.Drawing.Point(255, 378);
             this.button27.Name = "button27";
             this.button27.Size = new System.Drawing.Size(156, 51);
             this.button27.TabIndex = 26;
             this.button27.Text = "0";
-            this.button27.UseVisualStyleBackColor = true;
+            this.button27.UseVisualStyleBackColor = false;
             this.button27.Click += new System.EventHandler(this.button_click);
             // 
             // button28
