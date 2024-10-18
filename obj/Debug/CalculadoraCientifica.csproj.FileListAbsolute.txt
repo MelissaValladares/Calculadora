@@ -1,0 +1,10 @@
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe.config
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.exe
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\bin\Debug\CalculadoraCientifica.pdb
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.AssemblyReference.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Form1.resources
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.Properties.Resources.resources
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.GenerateResource.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.csproj.CoreCompileInputs.cache
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.exe
+C:\Users\mel_v\OneDrive\Documentos\Universidad\Octavo\Desarrollo Basado en Modelos\Trabajos en Visual Studio\CalculadoraCientifica\obj\Debug\CalculadoraCientifica.pdb
